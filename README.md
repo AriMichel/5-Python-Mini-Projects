@@ -8,7 +8,7 @@ We are going to code 5 games/programs, perfect projects for beginners.
 
 - Number Guessing Game
 
-- Rock, Paper, Schissors
+- Rock, Paper, Scissors
 
 - Choose your own adventure
 
